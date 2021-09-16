@@ -1,6 +1,6 @@
 # Infite- -Folders-
 
-------------------------------------------- IMPORTANT DISCLAIMER ---------------------------
+---------------------------------------- IMPORTANT DISCLAIMER -----------------------------
 Infinite Folders was made for education purposes only and it is not intended for malicious practises of any use. Use at your own discretion and in a controlled environment that will limit/eliminate any kind of personal/private data loss. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
